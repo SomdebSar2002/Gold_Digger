@@ -1,0 +1,1 @@
+2025-12-12T19:34:43.871Z, amount paid: £98, price per Oz: £3753.6, gold sold: 0.026 Oz

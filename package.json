@@ -1,0 +1,16 @@
+{
+  "name": "gold-digger",
+  "version": "1.0.0",
+  "description": "An app to invest timely on gold",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Somdeb Sar",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.17.2"
+  }
+}
